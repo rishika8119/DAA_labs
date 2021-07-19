@@ -6,7 +6,15 @@ int main()
   ///////
   ios_base::sync_with_stdio(false);
   cin.tie(NULL);
- 
+  #ifndef ONLINE_JUDGE
+  freopen("in.txt", "r", stdin);
+  freopen("out.txt", "w", stdout);
+  #endif
+  ///////
+  int t;
+  cin>>t;
+  while(t--)
+  {
   int n;
     int flag=0;
     cin>>n;
@@ -17,7 +25,7 @@ int main()
     for(int i=0;i<n;i++)
     {
         cin>>a[i];
-        c=c+1;
+        
         if(a[i]==key)
         {
             flag=1;
@@ -32,4 +40,5 @@ int main()
     else if(flag==0){
         cout<<"number is not present";
     }
+  }
 }
