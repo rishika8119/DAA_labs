@@ -1,0 +1,2 @@
+number 10 is present and number of comparisons performmed are 0
+number is not present
