@@ -18,12 +18,13 @@ int main()
     for(int i=0;i<n;i++)
     {
         cin>>a[i];
-        
+        c=c+1;
         if(a[i]==key)
         {
             flag=1;
             break;
         }
+      
         
     }
     if(flag==1)
