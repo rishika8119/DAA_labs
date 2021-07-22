@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-int binary_search(int key,vector<int> v,int last)
+int search(int key,vector<int> v,int last)
 {
     int mid,start=0,comp=0;
     last=last-1;
@@ -8,10 +8,10 @@ int binary_search(int key,vector<int> v,int last)
     while(start<=last)
     {
       mid=(start+last)/2;
-      comp++;
+      ++comp;
         if(v[mid]==key)
         {
-            cout<<"key present at "<<mid+1<<" number of comparison are"<<comp<<endl;
+            cout<<"key present , number of comparison are"<<comp<<endl;
             return 1;
         }
         else if(v[mid]<key)
@@ -31,11 +31,6 @@ int binary_search(int key,vector<int> v,int last)
 int main()
 {
   
-  int t;
-  cout<<"enter the number of test cases"<<endl;
-  cin>>t;
-  while(t--)
-  {
     int n;
     int key;
     cout<<"enter the value to be serached"<<endl;
@@ -48,8 +43,7 @@ int main()
     {
       cin>>v[i];
     }
-    binary_search(key,v,n);
+   search(key,v,n);
   
-  }
   return 0;
 }
