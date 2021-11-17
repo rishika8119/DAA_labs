@@ -43,11 +43,11 @@ University Roll No : 2015266 <br />
         <tr>
             <td rowspan=3>Week 3</td>
             <td>Insertion Sort</td>
-            <td> <a href="week3/insertionSort.cpp">insertionSort.cpp</a> </td>
+            <td> <a href="week3/insertion_sort.cpp">insertionSort.cpp</a> </td>
         </tr>
         <tr>
             <td>Selection Sort</td>
-            <td> <a href=".week3/selectionSort.cpp">selectionSort.cpp</a> </td>
+            <td> <a href="week3/selection_sort.cpp">selectionSort.cpp</a> </td>
         </tr>
         <tr>
             <td>Checking for duplicates</td>
