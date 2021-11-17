@@ -56,15 +56,15 @@ University Roll No : 2015266 <br />
         <tr>
             <td rowspan=3>Week 4</td>
             <td>Merge Sort</td>
-            <td> <a href="week4/mergeSort.cpp">mergeSort.cpp</a> </td>
+            <td> <a href="week4/merge_sort.cpp">mergeSort.cpp</a> </td>
         </tr>
         <tr>
             <td>Quick Sort</td>
-            <td> <a href="week4/quickSort.cpp">quickSort.cpp</a> </td>
+            <td> <a href="week4/problem1.cpp">quickSort.cpp</a> </td>
         </tr>
         <tr>
             <td>Finding Kth smallest number</td>
-            <td> <a href="week4/KSmallest.cpp">KSmallest.cpp</a> </td>
+            <td> <a href="week4/kthsmallest.cpp">KSmallest.cpp</a> </td>
         </tr>
         <tr>
             <td rowspan=3>Week 5</td>
