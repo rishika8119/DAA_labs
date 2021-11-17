@@ -17,76 +17,76 @@ University Roll No : 2015266 <br />
         <tr>
             <td rowspan=3>Week 1</td>
             <td>Linear Search</td>
-            <td> <a href="week 1/linearSearch.cpp">linearSearch.cpp</a> </td>
+            <td> <a href="week1/linearsearch.cpp">linearSearch.cpp</a> </td>
         </tr>
         <tr>
             <td>Binary Search</td>
-            <td> <a href="week 1/binarySearch.cpp">binarySearch.cpp</a> </td>
+            <td> <a href="week1/binarysearch.cpp">binarySearch.cpp</a> </td>
         </tr>
         <tr>
             <td>Exponential Search</td>
-            <td> <a href="week 1/exponentialSearch.cpp">exponentialSearch.cpp</a> </td>
+            <td> <a href="week1/jumpsearch.cpp">jumpSearch.cpp</a> </td>
         </tr>
         <tr>
             <td rowspan=3>Week 2</td>
             <td>No. of duplicates of Key</td>
-            <td> <a href="week 2/problem1.cpp">problem1.cpp</a> </td>
+            <td> <a href="week2/problem1.cpp">problem1.cpp</a> </td>
         </tr>
         <tr>
             <td>Finding indices as a[i]+a[j]=a[k] in sorted array</td>
-            <td> <a href="week 2/problem2.cpp">problem2.cpp</a> </td>
+            <td> <a href="week2/problem2.cpp">problem2.cpp</a> </td>
         </tr>
         <tr>
             <td>Counting pairs equal to key</td>
-            <td> <a href="week 2/problem3.cpp">problem3.cpp</a> </td>
+            <td> <a href="week2/problem3.cpp">problem3.cpp</a> </td>
         </tr>
         <tr>
             <td rowspan=3>Week 3</td>
             <td>Insertion Sort</td>
-            <td> <a href="week 3/insertionSort.cpp">insertionSort.cpp</a> </td>
+            <td> <a href="week3/insertionSort.cpp">insertionSort.cpp</a> </td>
         </tr>
         <tr>
             <td>Selection Sort</td>
-            <td> <a href=".week 3/selectionSort.cpp">selectionSort.cpp</a> </td>
+            <td> <a href=".week3/selectionSort.cpp">selectionSort.cpp</a> </td>
         </tr>
         <tr>
             <td>Checking for duplicates</td>
-            <td> <a href="week 3/duplicates.cpp">duplicates.cpp</a> </td>
+            <td> <a href="week3/duplicates.cpp">duplicates.cpp</a> </td>
         </tr>
         <tr>
             <td rowspan=3>Week 4</td>
             <td>Merge Sort</td>
-            <td> <a href="week 4/mergeSort.cpp">mergeSort.cpp</a> </td>
+            <td> <a href="week4/mergeSort.cpp">mergeSort.cpp</a> </td>
         </tr>
         <tr>
             <td>Quick Sort</td>
-            <td> <a href="week 4/quickSort.cpp">quickSort.cpp</a> </td>
+            <td> <a href="week4/quickSort.cpp">quickSort.cpp</a> </td>
         </tr>
         <tr>
             <td>Finding Kth smallest number</td>
-            <td> <a href="week 4/KSmallest.cpp">KSmallest.cpp</a> </td>
+            <td> <a href="week4/KSmallest.cpp">KSmallest.cpp</a> </td>
         </tr>
         <tr>
             <td rowspan=3>Week 5</td>
             <td>Count Sort</td>
-            <td> <a href="week 5/countSort.cpp">countSort.cpp</a> </td>
+            <td> <a href="week5/countSort.cpp">countSort.cpp</a> </td>
         </tr>
         <tr>
             <td>Finding indices as a[i]+a[j]=a[k] in unsorted array</td>
-            <td> <a href="week 5/keyPairSum.cpp">keyPairSum.cpp</a> </td>
+            <td> <a href="week5/keyPairSum.cpp">keyPairSum.cpp</a> </td>
         </tr>
         <tr>
             <td>Finding common elements of two arrays</td>
-            <td> <a href="week 5/common.cpp">common.cpp</a> </td>
+            <td> <a href="week5/common.cpp">common.cpp</a> </td>
         </tr>
         <tr>
             <td rowspan=2>Week 6</td>
             <td>Finding Existance of Path</td>
-            <td> <a href="week 6/dfs.cpp">dfs.cpp</a> </td>
+            <td> <a href="week6/dfs.cpp">dfs.cpp</a> </td>
         </tr>
         <tr>
             <td>Checking if Graph is Bipartite</td>
-            <td> <a href="week 6/bipartite.cpp">bipartite.cpp</a> </td>
+            <td> <a href="week6/bipartite.cpp">bipartite.cpp</a> </td>
         </tr>
         <tr>
             <td rowspan=3>Week 7</td>
