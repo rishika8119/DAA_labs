@@ -69,15 +69,15 @@ University Roll No : 2015266 <br />
         <tr>
             <td rowspan=3>Week 5</td>
             <td>Count Sort</td>
-            <td> <a href="week5/countSort.cpp">countSort.cpp</a> </td>
+            <td> <a href="week5/problem2.cpp">countSort.cpp</a> </td>
         </tr>
         <tr>
             <td>Finding indices as a[i]+a[j]=a[k] in unsorted array</td>
-            <td> <a href="week5/keyPairSum.cpp">keyPairSum.cpp</a> </td>
+            <td> <a href="week5/problem3.cpp">keyPairSum.cpp</a> </td>
         </tr>
         <tr>
             <td>Finding common elements of two arrays</td>
-            <td> <a href="week5/common.cpp">common.cpp</a> </td>
+            <td> <a href="week5/problem1.cpp">common.cpp</a> </td>
         </tr>
         <tr>
             <td rowspan=2>Week 6</td>
@@ -86,7 +86,7 @@ University Roll No : 2015266 <br />
         </tr>
         <tr>
             <td>Checking if Graph is Bipartite</td>
-            <td> <a href="week6/bipartite.cpp">bipartite.cpp</a> </td>
+            <td> <a href="week6/problem2.cpp">bipartite.cpp</a> </td>
         </tr>
         <tr>
             <td rowspan=3>Week 7</td>
